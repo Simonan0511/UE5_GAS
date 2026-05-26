@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "Character/AuraCharacterBase.h"
-#include "MainCharacter.generated.h"
+#include "AuraCharacter.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class AURA_API AMainCharacter : public AAuraCharacterBase
+class AURA_API AAuraCharacter : public AAuraCharacterBase
 {
 	GENERATED_BODY()
 	
