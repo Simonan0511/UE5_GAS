@@ -1,0 +1,29 @@
+[33mcommit e1d9b61970defbf28061dc90d22f319b7034f3c4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Simon An <Simonan0511@gmail.com>
+Date:   Mon Jun 15 15:38:24 2026 -0500
+
+    animation blueprints
+
+[33mcommit 1d487c39c30ce366a7169d05c3adf500b29a100b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Simon An <Simonan0511@gmail.com>
+Date:   Tue May 26 18:45:37 2026 -0500
+
+    Character BP Setup
+
+[33mcommit 40043cce6ed3c54dc09fc0d32210c39f3c553c60[m
+Author: Simon An <Simonan0511@gmail.com>
+Date:   Tue May 26 17:59:38 2026 -0500
+
+    Player and Enemy Characters
+
+[33mcommit 3ce85c9092ab976602e915abf63a3f86a959e82e[m
+Author: Simon An <Simonan0511@gmail.com>
+Date:   Mon May 25 18:01:25 2026 -0500
+
+    The Base Character Class
+
+[33mcommit 340c3e55d4c8d0a69f166c2904862f35450dda36[m
+Author: Simon An <Simonan0511@gmail.com>
+Date:   Sun May 24 21:52:17 2026 -0500
+
+    IntialProjectFiles
